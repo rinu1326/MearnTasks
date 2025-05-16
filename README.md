@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  MERN Product Management Application
 
 A full-featured MERN stack application to manage products, categories, subcategories, variants, wishlist, and filtering.
@@ -65,3 +66,6 @@ npm start
  Deployment
 
 
+=======
+# MearnTasks
+>>>>>>> 7768509f147d3dcb179dcb0b595c23cf72061dfb
